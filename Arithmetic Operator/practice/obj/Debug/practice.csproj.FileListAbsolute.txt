@@ -1,0 +1,11 @@
+D:\practice\practice\practice\bin\Debug\practice.exe.config
+D:\practice\practice\practice\bin\Debug\practice.exe
+D:\practice\practice\practice\bin\Debug\practice.pdb
+D:\practice\practice\practice\obj\Debug\practice.csproj.AssemblyReference.cache
+D:\practice\practice\practice\obj\Debug\practice.csproj.CoreCompileInputs.cache
+D:\practice\practice\practice\obj\Debug\practice.exe
+D:\practice\practice\practice\obj\Debug\practice.pdb
+D:\practice\Arithmetic Operator\practice\obj\Debug\practice.csproj.AssemblyReference.cache
+D:\practice\Arithmetic Operator\practice\obj\Debug\practice.csproj.CoreCompileInputs.cache
+D:\practice\Arithmetic Operator\practice\obj\Debug\practice.exe
+D:\practice\Arithmetic Operator\practice\obj\Debug\practice.pdb
