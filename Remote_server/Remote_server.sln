@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remote_server", "Remote_server\Remote_server.csproj", "{C0843C1E-F580-4FE0-9782-F4E331B22E78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteHost", "RemoteHost\RemoteHost.csproj", "{663609EE-8898-4594-9757-C31B8D14B566}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0843C1E-F580-4FE0-9782-F4E331B22E78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0843C1E-F580-4FE0-9782-F4E331B22E78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0843C1E-F580-4FE0-9782-F4E331B22E78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0843C1E-F580-4FE0-9782-F4E331B22E78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{663609EE-8898-4594-9757-C31B8D14B566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{663609EE-8898-4594-9757-C31B8D14B566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{663609EE-8898-4594-9757-C31B8D14B566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{663609EE-8898-4594-9757-C31B8D14B566}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32C5F93A-44EC-47D4-A5B2-BA3873894432}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+D:\practice\MyLibrary\MyLibrary\MyConsoleApp\bin\Debug\MyConsoleApp.exe.config
+D:\practice\MyLibrary\MyLibrary\MyConsoleApp\bin\Debug\MyConsoleApp.exe
+D:\practice\MyLibrary\MyLibrary\MyConsoleApp\bin\Debug\MyConsoleApp.pdb
+D:\practice\MyLibrary\MyLibrary\MyConsoleApp\bin\Debug\MyLibrary.dll
+D:\practice\MyLibrary\MyLibrary\MyConsoleApp\bin\Debug\MyLibrary.pdb
+D:\practice\MyLibrary\MyLibrary\MyConsoleApp\obj\Debug\MyConsoleApp.csproj.AssemblyReference.cache
+D:\practice\MyLibrary\MyLibrary\MyConsoleApp\obj\Debug\MyConsoleApp.csproj.CoreCompileInputs.cache
+D:\practice\MyLibrary\MyLibrary\MyConsoleApp\obj\Debug\MyConsol.4CA403AE.Up2Date
+D:\practice\MyLibrary\MyLibrary\MyConsoleApp\obj\Debug\MyConsoleApp.exe
+D:\practice\MyLibrary\MyLibrary\MyConsoleApp\obj\Debug\MyConsoleApp.pdb

@@ -1,0 +1,7 @@
+D:\practice\MyMethod\MyMethod\bin\Debug\MyMethod.exe.config
+D:\practice\MyMethod\MyMethod\bin\Debug\MyMethod.exe
+D:\practice\MyMethod\MyMethod\bin\Debug\MyMethod.pdb
+D:\practice\MyMethod\MyMethod\obj\Debug\MyMethod.csproj.AssemblyReference.cache
+D:\practice\MyMethod\MyMethod\obj\Debug\MyMethod.csproj.CoreCompileInputs.cache
+D:\practice\MyMethod\MyMethod\obj\Debug\MyMethod.exe
+D:\practice\MyMethod\MyMethod\obj\Debug\MyMethod.pdb

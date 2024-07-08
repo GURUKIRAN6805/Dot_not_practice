@@ -1,0 +1,6 @@
+D:\practice\MyLibrary\MyLibrary\bin\Debug\MyLibrary.dll
+D:\practice\MyLibrary\MyLibrary\bin\Debug\MyLibrary.pdb
+D:\practice\MyLibrary\MyLibrary\obj\Debug\MyLibrary.csproj.AssemblyReference.cache
+D:\practice\MyLibrary\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+D:\practice\MyLibrary\MyLibrary\obj\Debug\MyLibrary.dll
+D:\practice\MyLibrary\MyLibrary\obj\Debug\MyLibrary.pdb

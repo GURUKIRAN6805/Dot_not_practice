@@ -1,0 +1,7 @@
+D:\practice\Myfile\Myfile\bin\Debug\Myfile.exe.config
+D:\practice\Myfile\Myfile\bin\Debug\Myfile.exe
+D:\practice\Myfile\Myfile\bin\Debug\Myfile.pdb
+D:\practice\Myfile\Myfile\obj\Debug\Myfile.csproj.AssemblyReference.cache
+D:\practice\Myfile\Myfile\obj\Debug\Myfile.csproj.CoreCompileInputs.cache
+D:\practice\Myfile\Myfile\obj\Debug\Myfile.exe
+D:\practice\Myfile\Myfile\obj\Debug\Myfile.pdb

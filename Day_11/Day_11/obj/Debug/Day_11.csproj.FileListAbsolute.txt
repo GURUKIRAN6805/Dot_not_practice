@@ -1,0 +1,7 @@
+D:\practice\Day_11\Day_11\bin\Debug\Day_11.exe.config
+D:\practice\Day_11\Day_11\bin\Debug\Day_11.exe
+D:\practice\Day_11\Day_11\bin\Debug\Day_11.pdb
+D:\practice\Day_11\Day_11\obj\Debug\Day_11.csproj.AssemblyReference.cache
+D:\practice\Day_11\Day_11\obj\Debug\Day_11.csproj.CoreCompileInputs.cache
+D:\practice\Day_11\Day_11\obj\Debug\Day_11.exe
+D:\practice\Day_11\Day_11\obj\Debug\Day_11.pdb

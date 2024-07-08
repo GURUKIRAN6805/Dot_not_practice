@@ -1,0 +1,13 @@
+D:\practice\RemoteClientWindows\RemoteClientWindows\bin\Debug\RemoteClientWindows.exe.config
+D:\practice\RemoteClientWindows\RemoteClientWindows\bin\Debug\RemoteClientWindows.exe
+D:\practice\RemoteClientWindows\RemoteClientWindows\bin\Debug\RemoteClientWindows.pdb
+D:\practice\RemoteClientWindows\RemoteClientWindows\bin\Debug\Remote_server.dll
+D:\practice\RemoteClientWindows\RemoteClientWindows\bin\Debug\Remote_server.pdb
+D:\practice\RemoteClientWindows\RemoteClientWindows\obj\Debug\RemoteClientWindows.csproj.AssemblyReference.cache
+D:\practice\RemoteClientWindows\RemoteClientWindows\obj\Debug\RemoteClientWindows.Form1.resources
+D:\practice\RemoteClientWindows\RemoteClientWindows\obj\Debug\RemoteClientWindows.Properties.Resources.resources
+D:\practice\RemoteClientWindows\RemoteClientWindows\obj\Debug\RemoteClientWindows.csproj.GenerateResource.cache
+D:\practice\RemoteClientWindows\RemoteClientWindows\obj\Debug\RemoteClientWindows.csproj.CoreCompileInputs.cache
+D:\practice\RemoteClientWindows\RemoteClientWindows\obj\Debug\RemoteCl.BDA801AB.Up2Date
+D:\practice\RemoteClientWindows\RemoteClientWindows\obj\Debug\RemoteClientWindows.exe
+D:\practice\RemoteClientWindows\RemoteClientWindows\obj\Debug\RemoteClientWindows.pdb

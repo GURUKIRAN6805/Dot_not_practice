@@ -1,0 +1,10 @@
+D:\practice\Day_11\Day11_WinForm\bin\Debug\Day11_WinForm.exe.config
+D:\practice\Day_11\Day11_WinForm\bin\Debug\Day11_WinForm.exe
+D:\practice\Day_11\Day11_WinForm\bin\Debug\Day11_WinForm.pdb
+D:\practice\Day_11\Day11_WinForm\obj\Debug\Day11_WinForm.csproj.AssemblyReference.cache
+D:\practice\Day_11\Day11_WinForm\obj\Debug\Day11_WinForm.Form1.resources
+D:\practice\Day_11\Day11_WinForm\obj\Debug\Day11_WinForm.Properties.Resources.resources
+D:\practice\Day_11\Day11_WinForm\obj\Debug\Day11_WinForm.csproj.GenerateResource.cache
+D:\practice\Day_11\Day11_WinForm\obj\Debug\Day11_WinForm.csproj.CoreCompileInputs.cache
+D:\practice\Day_11\Day11_WinForm\obj\Debug\Day11_WinForm.exe
+D:\practice\Day_11\Day11_WinForm\obj\Debug\Day11_WinForm.pdb

@@ -1,0 +1,10 @@
+D:\practice\Remote_server\RemoteHost\bin\Debug\RemoteHost.exe.config
+D:\practice\Remote_server\RemoteHost\bin\Debug\RemoteHost.exe
+D:\practice\Remote_server\RemoteHost\bin\Debug\RemoteHost.pdb
+D:\practice\Remote_server\RemoteHost\bin\Debug\Remote_server.dll
+D:\practice\Remote_server\RemoteHost\bin\Debug\Remote_server.pdb
+D:\practice\Remote_server\RemoteHost\obj\Debug\RemoteHost.csproj.AssemblyReference.cache
+D:\practice\Remote_server\RemoteHost\obj\Debug\RemoteHost.csproj.CoreCompileInputs.cache
+D:\practice\Remote_server\RemoteHost\obj\Debug\RemoteHost.csproj.Up2Date
+D:\practice\Remote_server\RemoteHost\obj\Debug\RemoteHost.exe
+D:\practice\Remote_server\RemoteHost\obj\Debug\RemoteHost.pdb

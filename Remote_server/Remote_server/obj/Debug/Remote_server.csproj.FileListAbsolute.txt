@@ -1,0 +1,6 @@
+D:\practice\Remote_server\Remote_server\bin\Debug\Remote_server.dll
+D:\practice\Remote_server\Remote_server\bin\Debug\Remote_server.pdb
+D:\practice\Remote_server\Remote_server\obj\Debug\Remote_server.csproj.AssemblyReference.cache
+D:\practice\Remote_server\Remote_server\obj\Debug\Remote_server.csproj.CoreCompileInputs.cache
+D:\practice\Remote_server\Remote_server\obj\Debug\Remote_server.dll
+D:\practice\Remote_server\Remote_server\obj\Debug\Remote_server.pdb
