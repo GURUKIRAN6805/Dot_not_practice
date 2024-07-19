@@ -1,0 +1,7 @@
+D:\practice\Practice\ADO\Updatedept\Updatedept\bin\Debug\Updatedept.exe.config
+D:\practice\Practice\ADO\Updatedept\Updatedept\bin\Debug\Updatedept.exe
+D:\practice\Practice\ADO\Updatedept\Updatedept\bin\Debug\Updatedept.pdb
+D:\practice\Practice\ADO\Updatedept\Updatedept\obj\Debug\Updatedept.csproj.AssemblyReference.cache
+D:\practice\Practice\ADO\Updatedept\Updatedept\obj\Debug\Updatedept.csproj.CoreCompileInputs.cache
+D:\practice\Practice\ADO\Updatedept\Updatedept\obj\Debug\Updatedept.exe
+D:\practice\Practice\ADO\Updatedept\Updatedept\obj\Debug\Updatedept.pdb

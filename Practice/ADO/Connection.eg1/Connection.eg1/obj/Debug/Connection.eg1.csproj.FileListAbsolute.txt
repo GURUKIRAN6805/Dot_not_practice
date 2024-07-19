@@ -1,0 +1,7 @@
+D:\practice\Practice\ADO\Connection.eg1\Connection.eg1\bin\Debug\Connection.eg1.exe.config
+D:\practice\Practice\ADO\Connection.eg1\Connection.eg1\bin\Debug\Connection.eg1.exe
+D:\practice\Practice\ADO\Connection.eg1\Connection.eg1\bin\Debug\Connection.eg1.pdb
+D:\practice\Practice\ADO\Connection.eg1\Connection.eg1\obj\Debug\Connection.eg1.csproj.AssemblyReference.cache
+D:\practice\Practice\ADO\Connection.eg1\Connection.eg1\obj\Debug\Connection.eg1.csproj.CoreCompileInputs.cache
+D:\practice\Practice\ADO\Connection.eg1\Connection.eg1\obj\Debug\Connection.eg1.exe
+D:\practice\Practice\ADO\Connection.eg1\Connection.eg1\obj\Debug\Connection.eg1.pdb
