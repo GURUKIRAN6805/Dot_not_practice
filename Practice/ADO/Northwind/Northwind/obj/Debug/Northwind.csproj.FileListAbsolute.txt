@@ -1,0 +1,7 @@
+D:\practice\Practice\ADO\Northwind\Northwind\bin\Debug\Northwind.exe.config
+D:\practice\Practice\ADO\Northwind\Northwind\bin\Debug\Northwind.exe
+D:\practice\Practice\ADO\Northwind\Northwind\bin\Debug\Northwind.pdb
+D:\practice\Practice\ADO\Northwind\Northwind\obj\Debug\Northwind.csproj.AssemblyReference.cache
+D:\practice\Practice\ADO\Northwind\Northwind\obj\Debug\Northwind.csproj.CoreCompileInputs.cache
+D:\practice\Practice\ADO\Northwind\Northwind\obj\Debug\Northwind.exe
+D:\practice\Practice\ADO\Northwind\Northwind\obj\Debug\Northwind.pdb

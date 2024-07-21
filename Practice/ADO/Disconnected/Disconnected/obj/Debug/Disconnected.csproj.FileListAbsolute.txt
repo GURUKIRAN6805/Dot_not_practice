@@ -1,0 +1,7 @@
+D:\practice\Practice\ADO\Disconnected\Disconnected\bin\Debug\Disconnected.exe.config
+D:\practice\Practice\ADO\Disconnected\Disconnected\bin\Debug\Disconnected.exe
+D:\practice\Practice\ADO\Disconnected\Disconnected\bin\Debug\Disconnected.pdb
+D:\practice\Practice\ADO\Disconnected\Disconnected\obj\Debug\Disconnected.csproj.AssemblyReference.cache
+D:\practice\Practice\ADO\Disconnected\Disconnected\obj\Debug\Disconnected.csproj.CoreCompileInputs.cache
+D:\practice\Practice\ADO\Disconnected\Disconnected\obj\Debug\Disconnected.exe
+D:\practice\Practice\ADO\Disconnected\Disconnected\obj\Debug\Disconnected.pdb
