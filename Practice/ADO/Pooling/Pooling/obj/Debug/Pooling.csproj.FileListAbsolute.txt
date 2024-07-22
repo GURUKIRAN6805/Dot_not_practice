@@ -1,0 +1,7 @@
+D:\practice\Practice\ADO\Pooling\Pooling\bin\Debug\Pooling.exe.config
+D:\practice\Practice\ADO\Pooling\Pooling\bin\Debug\Pooling.exe
+D:\practice\Practice\ADO\Pooling\Pooling\bin\Debug\Pooling.pdb
+D:\practice\Practice\ADO\Pooling\Pooling\obj\Debug\Pooling.csproj.AssemblyReference.cache
+D:\practice\Practice\ADO\Pooling\Pooling\obj\Debug\Pooling.csproj.CoreCompileInputs.cache
+D:\practice\Practice\ADO\Pooling\Pooling\obj\Debug\Pooling.exe
+D:\practice\Practice\ADO\Pooling\Pooling\obj\Debug\Pooling.pdb

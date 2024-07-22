@@ -1,0 +1,7 @@
+D:\practice\Practice\ADO\Relations_Constraints\Relations_Constraints\bin\Debug\Relations_Constraints.exe.config
+D:\practice\Practice\ADO\Relations_Constraints\Relations_Constraints\bin\Debug\Relations_Constraints.exe
+D:\practice\Practice\ADO\Relations_Constraints\Relations_Constraints\bin\Debug\Relations_Constraints.pdb
+D:\practice\Practice\ADO\Relations_Constraints\Relations_Constraints\obj\Debug\Relations_Constraints.csproj.AssemblyReference.cache
+D:\practice\Practice\ADO\Relations_Constraints\Relations_Constraints\obj\Debug\Relations_Constraints.csproj.CoreCompileInputs.cache
+D:\practice\Practice\ADO\Relations_Constraints\Relations_Constraints\obj\Debug\Relations_Constraints.exe
+D:\practice\Practice\ADO\Relations_Constraints\Relations_Constraints\obj\Debug\Relations_Constraints.pdb
