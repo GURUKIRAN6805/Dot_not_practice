@@ -1,0 +1,12 @@
+D:\practice\Practice\EF\DatabaseFirst\DatabaseFirst\bin\Debug\DatabaseFirst.exe.config
+D:\practice\Practice\EF\DatabaseFirst\DatabaseFirst\bin\Debug\DatabaseFirst.exe
+D:\practice\Practice\EF\DatabaseFirst\DatabaseFirst\bin\Debug\DatabaseFirst.pdb
+D:\practice\Practice\EF\DatabaseFirst\DatabaseFirst\bin\Debug\EntityFramework.dll
+D:\practice\Practice\EF\DatabaseFirst\DatabaseFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\practice\Practice\EF\DatabaseFirst\DatabaseFirst\bin\Debug\EntityFramework.xml
+D:\practice\Practice\EF\DatabaseFirst\DatabaseFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\practice\Practice\EF\DatabaseFirst\DatabaseFirst\obj\Debug\DatabaseFirst.csproj.AssemblyReference.cache
+D:\practice\Practice\EF\DatabaseFirst\DatabaseFirst\obj\Debug\DatabaseFirst.csproj.CoreCompileInputs.cache
+D:\practice\Practice\EF\DatabaseFirst\DatabaseFirst\obj\Debug\Database.FA409B03.Up2Date
+D:\practice\Practice\EF\DatabaseFirst\DatabaseFirst\obj\Debug\DatabaseFirst.exe
+D:\practice\Practice\EF\DatabaseFirst\DatabaseFirst\obj\Debug\DatabaseFirst.pdb
