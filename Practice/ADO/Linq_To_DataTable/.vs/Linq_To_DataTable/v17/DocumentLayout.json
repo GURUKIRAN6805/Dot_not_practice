@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\practice\\Practice\\ADO\\Linq_To_DataTable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{122C290B-22CF-4B68-93CB-30BA83BC046A}|Linq_To_DataTable\\Linq_To_DataTable.csproj|d:\\practice\\practice\\ado\\linq_to_datatable\\linq_to_datatable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{122C290B-22CF-4B68-93CB-30BA83BC046A}|Linq_To_DataTable\\Linq_To_DataTable.csproj|solutionrelative:linq_to_datatable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\practice\\Practice\\ADO\\Linq_To_DataTable\\Linq_To_DataTable\\Program.cs",
+              "RelativeDocumentMoniker": "Linq_To_DataTable\\Program.cs",
+              "ToolTip": "D:\\practice\\Practice\\ADO\\Linq_To_DataTable\\Linq_To_DataTable\\Program.cs",
+              "RelativeToolTip": "Linq_To_DataTable\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T14:39:39.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
