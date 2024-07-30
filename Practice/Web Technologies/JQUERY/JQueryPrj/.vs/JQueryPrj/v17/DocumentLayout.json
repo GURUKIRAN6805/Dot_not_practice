@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\practice\\Practice\\Web Technologies\\JQUERY\\JQueryPrj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5FD22D-2EFF-4901-91A1-1F622BACBD0A}|JQueryPrj\\JQueryPrj.csproj|d:\\practice\\practice\\web technologies\\jquery\\jqueryprj\\jqueryprj\\get_n_set.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D5FD22D-2EFF-4901-91A1-1F622BACBD0A}|JQueryPrj\\JQueryPrj.csproj|solutionrelative:jqueryprj\\get_n_set.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5FD22D-2EFF-4901-91A1-1F622BACBD0A}|JQueryPrj\\JQueryPrj.csproj|d:\\practice\\practice\\web technologies\\jquery\\jqueryprj\\jqueryprj\\jq6.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D5FD22D-2EFF-4901-91A1-1F622BACBD0A}|JQueryPrj\\JQueryPrj.csproj|solutionrelative:jqueryprj\\jq6.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5FD22D-2EFF-4901-91A1-1F622BACBD0A}|JQueryPrj\\JQueryPrj.csproj|d:\\practice\\practice\\web technologies\\jquery\\jqueryprj\\jqueryprj\\jq5.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D5FD22D-2EFF-4901-91A1-1F622BACBD0A}|JQueryPrj\\JQueryPrj.csproj|solutionrelative:jqueryprj\\jq5.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5FD22D-2EFF-4901-91A1-1F622BACBD0A}|JQueryPrj\\JQueryPrj.csproj|d:\\practice\\practice\\web technologies\\jquery\\jqueryprj\\jqueryprj\\jq4.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D5FD22D-2EFF-4901-91A1-1F622BACBD0A}|JQueryPrj\\JQueryPrj.csproj|solutionrelative:jqueryprj\\jq4.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5FD22D-2EFF-4901-91A1-1F622BACBD0A}|JQueryPrj\\JQueryPrj.csproj|d:\\practice\\practice\\web technologies\\jquery\\jqueryprj\\jqueryprj\\jq3.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D5FD22D-2EFF-4901-91A1-1F622BACBD0A}|JQueryPrj\\JQueryPrj.csproj|solutionrelative:jqueryprj\\jq3.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5FD22D-2EFF-4901-91A1-1F622BACBD0A}|JQueryPrj\\JQueryPrj.csproj|d:\\practice\\practice\\web technologies\\jquery\\jqueryprj\\jqueryprj\\jq2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D5FD22D-2EFF-4901-91A1-1F622BACBD0A}|JQueryPrj\\JQueryPrj.csproj|solutionrelative:jqueryprj\\jq2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5FD22D-2EFF-4901-91A1-1F622BACBD0A}|JQueryPrj\\JQueryPrj.csproj|d:\\practice\\practice\\web technologies\\jquery\\jqueryprj\\jqueryprj\\jq1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D5FD22D-2EFF-4901-91A1-1F622BACBD0A}|JQueryPrj\\JQueryPrj.csproj|solutionrelative:jqueryprj\\jq1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5FD22D-2EFF-4901-91A1-1F622BACBD0A}|JQueryPrj\\JQueryPrj.csproj|d:\\practice\\practice\\web technologies\\jquery\\jqueryprj\\jqueryprj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D5FD22D-2EFF-4901-91A1-1F622BACBD0A}|JQueryPrj\\JQueryPrj.csproj|solutionrelative:jqueryprj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Get_n_Set.html",
+              "DocumentMoniker": "D:\\practice\\Practice\\Web Technologies\\JQUERY\\JQueryPrj\\JQueryPrj\\Get_n_Set.html",
+              "RelativeDocumentMoniker": "JQueryPrj\\Get_n_Set.html",
+              "ToolTip": "D:\\practice\\Practice\\Web Technologies\\JQUERY\\JQueryPrj\\JQueryPrj\\Get_n_Set.html",
+              "RelativeToolTip": "JQueryPrj\\Get_n_Set.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-30T10:42:44.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Jq6.html",
+              "DocumentMoniker": "D:\\practice\\Practice\\Web Technologies\\JQUERY\\JQueryPrj\\JQueryPrj\\Jq6.html",
+              "RelativeDocumentMoniker": "JQueryPrj\\Jq6.html",
+              "ToolTip": "D:\\practice\\Practice\\Web Technologies\\JQUERY\\JQueryPrj\\JQueryPrj\\Jq6.html",
+              "RelativeToolTip": "JQueryPrj\\Jq6.html",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-30T10:40:16.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Jq5.html",
+              "DocumentMoniker": "D:\\practice\\Practice\\Web Technologies\\JQUERY\\JQueryPrj\\JQueryPrj\\Jq5.html",
+              "RelativeDocumentMoniker": "JQueryPrj\\Jq5.html",
+              "ToolTip": "D:\\practice\\Practice\\Web Technologies\\JQUERY\\JQueryPrj\\JQueryPrj\\Jq5.html",
+              "RelativeToolTip": "JQueryPrj\\Jq5.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-30T10:37:58.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Jq4.html",
+              "DocumentMoniker": "D:\\practice\\Practice\\Web Technologies\\JQUERY\\JQueryPrj\\JQueryPrj\\Jq4.html",
+              "RelativeDocumentMoniker": "JQueryPrj\\Jq4.html",
+              "ToolTip": "D:\\practice\\Practice\\Web Technologies\\JQUERY\\JQueryPrj\\JQueryPrj\\Jq4.html",
+              "RelativeToolTip": "JQueryPrj\\Jq4.html",
+              "ViewState": "AQIAACAAAAAAAAAAAAAIwEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-30T10:36:23.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Jq3.html",
+              "DocumentMoniker": "D:\\practice\\Practice\\Web Technologies\\JQUERY\\JQueryPrj\\JQueryPrj\\Jq3.html",
+              "RelativeDocumentMoniker": "JQueryPrj\\Jq3.html",
+              "ToolTip": "D:\\practice\\Practice\\Web Technologies\\JQUERY\\JQueryPrj\\JQueryPrj\\Jq3.html",
+              "RelativeToolTip": "JQueryPrj\\Jq3.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-30T06:05:33.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Jq2.html",
+              "DocumentMoniker": "D:\\practice\\Practice\\Web Technologies\\JQUERY\\JQueryPrj\\JQueryPrj\\Jq2.html",
+              "RelativeDocumentMoniker": "JQueryPrj\\Jq2.html",
+              "ToolTip": "D:\\practice\\Practice\\Web Technologies\\JQUERY\\JQueryPrj\\JQueryPrj\\Jq2.html",
+              "RelativeToolTip": "JQueryPrj\\Jq2.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-30T06:04:00.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Jq1.html",
+              "DocumentMoniker": "D:\\practice\\Practice\\Web Technologies\\JQUERY\\JQueryPrj\\JQueryPrj\\Jq1.html",
+              "RelativeDocumentMoniker": "JQueryPrj\\Jq1.html",
+              "ToolTip": "D:\\practice\\Practice\\Web Technologies\\JQUERY\\JQueryPrj\\JQueryPrj\\Jq1.html",
+              "RelativeToolTip": "JQueryPrj\\Jq1.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-30T06:02:34.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\practice\\Practice\\Web Technologies\\JQUERY\\JQueryPrj\\JQueryPrj\\Program.cs",
+              "RelativeDocumentMoniker": "JQueryPrj\\Program.cs",
+              "ToolTip": "D:\\practice\\Practice\\Web Technologies\\JQUERY\\JQueryPrj\\JQueryPrj\\Program.cs",
+              "RelativeToolTip": "JQueryPrj\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T06:01:48.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
