@@ -1,0 +1,2 @@
+D:\practice\Practice\MVC\mvc -ef\mvc -ef\obj\Debug\mvc -ef.csproj.AssemblyReference.cache
+D:\practice\Practice\MVC\mvc -ef\mvc -ef\obj\Debug\mvc -ef.csproj.CoreCompileInputs.cache
